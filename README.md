@@ -1,5 +1,5 @@
 # Fake news detection using deep learning
-## Final master thesis project
+
 
 This repository is focused on finding fake news using deep learning
 
